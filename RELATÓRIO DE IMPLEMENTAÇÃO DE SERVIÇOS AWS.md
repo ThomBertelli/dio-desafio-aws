@@ -2,11 +2,11 @@
 
 Data: 12/06/2025
 Empresa: Abstergo Industries
-Responsável: [Nome do Responsável pelo Projeto]
+Responsável: Thomas Breno Bertelli Mendes
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por [Nome do Responsável pelo Projeto]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos e a longo prazo, considerando que a empresa atualmente não possui uma solução em nuvem e busca migrar sua infraestrutura para a AWS.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por  Thomas Breno Bertelli Mendes. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos e a longo prazo, considerando que a empresa atualmente não possui uma solução em nuvem e busca migrar sua infraestrutura para a AWS.
 
 ## Descrição do Projeto
 
